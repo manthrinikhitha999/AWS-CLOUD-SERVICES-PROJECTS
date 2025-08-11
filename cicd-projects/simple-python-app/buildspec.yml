@@ -24,9 +24,13 @@ phases:
       - echo "$DOCKER_REGISTRY_PASSWORD" | docker login -u "$DOCKER_REGISTRY_USERNAME_LOWER" --password-stdin "$DOCKER_REGISTRY_URL_LOWER"
       - docker build -t "$DOCKER_REGISTRY_URL_LOWER/$DOCKER_REGISTRY_USERNAME_LOWER/simple-python-app:latest" .
       - docker push "$DOCKER_REGISTRY_URL_LOWER/$DOCKER_REGISTRY_USERNAME_LOWER/simple-python-app:latest"
-
-
-
     post_build:
       commands:
         - echo "Build completed successfully!"
+
+
+
+
+
+
+        
