@@ -17,17 +17,14 @@ phases:
   build:
     commands:
       - cd cicd-projects/simple-python-app/
-      - DOCKER_REGISTRY_URL_LOWER=$(echo "$DOCKER_REGISTRY_URL" | tr '[:upper:]' '[:lower:]')
-      - DOCKER_REGISTRY_USERNAME_LOWER=$(echo "$DOCKER_REGISTRY_USERNAME" | tr '[:upper:]' '[:lower:]')
 
       - echo "Building Docker image"
-      - echo "$DOCKER_REGISTRY_PASSWORD" | docker login -u "$DOCKER_REGISTRY_USERNAME_LOWER" --password-stdin "$DOCKER_REGISTRY_URL_LOWER"
-      - docker build -t "$DOCKER_REGISTRY_URL_LOWER/$DOCKER_REGISTRY_USERNAME_LOWER/simple-python-app:latest" .
-      - docker push "$DOCKER_REGISTRY_URL_LOWER/$DOCKER_REGISTRY_USERNAME_LOWER/simple-python-app:latest"
+      - echo "$DOCKER_REGISTRY_PASSWORD" | docker login -u "$DOCKER_REGISTRY_USERNAME" --password-stdin "$DOCKER_REGISTRY_URL"
+      - docker build -t "$DOCKER_REGISTRY_URL/$DOCKER_REGISTRY_USERNAME/simple-python-app:latest" .
+      - docker push "docker.io/$DOCKER_REGISTRY_USERNAME/simple-python-app:latest"
     post_build:
       commands:
         - echo "Build completed successfully!"
-
 
 
 
