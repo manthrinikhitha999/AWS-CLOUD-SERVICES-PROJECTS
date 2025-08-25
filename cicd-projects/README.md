@@ -80,6 +80,10 @@ Login to the Instance and fire this commands.
  9  docker --version
  10 docker ps  
 
+
+
+
+
 Code Deploy:
  
  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c173641-a9ee-4f60-ba56-dbb1f6f27a68" />
@@ -88,6 +92,18 @@ Code Deploy:
 
  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/eff35a0f-3b8b-4897-ab96-99d154aaa896" />
  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/07127799-a256-4d9a-a263-e8adb4ccd359" />
+
+
+IAM permissions:
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/65a4600c-7259-4794-82b8-2504679d3b95" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d46bd655-44e6-40af-8ee2-b4c597566b38" />
+
+
+
+
 
 
 
