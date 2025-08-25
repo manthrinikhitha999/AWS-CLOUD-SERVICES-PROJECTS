@@ -81,6 +81,8 @@ Login to the Instance and fire this commands.
  10 docker ps  
 
 
+Document To Install the above agent:
+https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-ubuntu.html
 
 
 
