@@ -79,7 +79,11 @@ Login to the Instance and fire this commands.
  8  sudo apt  install docker.io
  9  docker --version
  10 docker ps  
-  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c173641-a9ee-4f60-ba56-dbb1f6f27a68" />
+Code Deploy:
+ 
+ <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c173641-a9ee-4f60-ba56-dbb1f6f27a68" />
+
+ 
 
 
 
