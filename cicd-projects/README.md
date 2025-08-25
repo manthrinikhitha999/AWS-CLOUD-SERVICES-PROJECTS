@@ -11,6 +11,8 @@ https://youtu.be/HgXFU4GLisg?si=drfUrDutiTvkoYKh
 
 <img width="1920" height="905" alt="AWS-CICD-IMAGE" src="https://github.com/user-attachments/assets/cb8b8a05-2e9d-47c0-9466-12d6b6cfaddd" />
 
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 120151" src="https://github.com/user-attachments/assets/52e5b757-ea28-40b5-879b-660fdb5a0f46" />
+
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 115053" src="https://github.com/user-attachments/assets/a6a77ad8-179c-4172-9b22-8cac1bf50b8d" />
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 115121" src="https://github.com/user-attachments/assets/65f7f578-baaa-4f1a-afa5-6a811de2511f" />
