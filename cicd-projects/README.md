@@ -101,6 +101,12 @@ IAM permissions:
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d46bd655-44e6-40af-8ee2-b4c597566b38" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5fa2f508-ff75-4c47-a830-d0b348a96a4a" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 140701" src="https://github.com/user-attachments/assets/a195b6e4-2024-4a9c-9c91-5a1e368a0f1a" />
+
+
+
 
 
 
