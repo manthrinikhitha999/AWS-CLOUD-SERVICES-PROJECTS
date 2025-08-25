@@ -67,6 +67,20 @@ Code Pipeline:
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 121224" src="https://github.com/user-attachments/assets/af1e4d3b-dfa9-4a75-8444-1467e86905a7" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/36746e5c-a63e-4793-a37e-97a6e164a317" />
+Login to the Instance and fire this commands.
+ 1  sudo apt update
+ 2  sudo apt install ruby-full
+ 3  sudo apt install wget
+ 4  wget https://aws-codedeploy-us-east-1.s3.us-east-1.amazonaws.com/latest/install
+ 5  chmod +x ./install
+ 6  sudo ./install auto
+ 7  systemctl status codedeploy-agent
+ 8  sudo apt  install docker.io
+ 9  docker --version
+ 10 docker ps  
+  
+
 
 
 
