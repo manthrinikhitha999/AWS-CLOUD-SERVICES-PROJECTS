@@ -13,7 +13,7 @@ https://youtu.be/HgXFU4GLisg?si=drfUrDutiTvkoYKh
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 120151" src="https://github.com/user-attachments/assets/52e5b757-ea28-40b5-879b-660fdb5a0f46" />
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ba4ec9d2-8ac5-4183-90f7-3e11055e3921" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 120325" src="https://github.com/user-attachments/assets/5381544a-54d8-43fe-828b-1d4161a57024" />
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 115053" src="https://github.com/user-attachments/assets/a6a77ad8-179c-4172-9b22-8cac1bf50b8d" />
 
