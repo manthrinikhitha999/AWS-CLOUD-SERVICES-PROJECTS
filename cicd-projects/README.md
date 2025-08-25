@@ -106,6 +106,25 @@ IAM permissions:
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 140701" src="https://github.com/user-attachments/assets/a195b6e4-2024-4a9c-9c91-5a1e368a0f1a" />
 
 
+Errors Faced During the implementation:
+
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 140916" src="https://github.com/user-attachments/assets/c30fe499-bf73-4ba0-a04a-1d7e5d51d847" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 134502" src="https://github.com/user-attachments/assets/9017c1a3-c9d5-4a01-a111-242f201aeb9e" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 134327" src="https://github.com/user-attachments/assets/8a67d7fb-01ef-4b04-be87-2b23b5a6a552" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-25 133043" src="https://github.com/user-attachments/assets/e9d0b470-75e7-4630-80f8-59f22cae4125" />
+
+
+
+
+
+
+
+
+
 
 
 
