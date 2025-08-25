@@ -41,7 +41,7 @@ CodeBuild:
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 115625" src="https://github.com/user-attachments/assets/c5e6577e-3f40-41c5-9aca-5458a57a3587" />
 
-Code Pipeline:
-
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 120404" src="https://github.com/user-attachments/assets/36c1f26e-eb56-44dc-ab1b-93de013d8d48" />
+
+Code Pipeline:
 
