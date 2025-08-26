@@ -28,3 +28,21 @@ Errors we got:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/41892cd9-4980-48fe-acb0-f9a13d96b5a1" />
 
 
+
+CASE: 1 (without deleting the EC2 instance ,volume and snapshot.) 
+
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/508dc31d-8d2e-44b8-a84f-bbf3856b83a0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c3b45ba3-f640-4ad1-bd53-2cb447f99b20" />
+
+
+
+CASE:2 (By deleting the EC2 instance, lets click on "test" in Lambda functions.
+
+
+
+
+
+
