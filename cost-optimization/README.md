@@ -48,6 +48,8 @@ CASE:2 (By deleting the EC2 instance, lets click on "test" in Lambda functions.
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2e179759-b543-4130-b781-820a7d152be0" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/639600d7-bf4e-4b9a-af7b-fe6251469e51" />
+
 
 
 
