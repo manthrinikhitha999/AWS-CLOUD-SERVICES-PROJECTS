@@ -51,5 +51,22 @@ CASE:2 (By deleting the EC2 instance, lets click on "test" in Lambda functions.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/639600d7-bf4e-4b9a-af7b-fe6251469e51" />
 
 
+CASE3: Again Create Only the Volume and the snapshot out of Volume you Created now. and test it how it behaves.
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8ffc9e7c-1b98-40df-9271-01ab8c81412a" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/395cba28-9268-4efa-b847-84f7078a6443" />
+
+====================================================================================================================================================================
+--Here my fundamental principle is if the snapshot is stale, if it belongs to volume that is not attached to any ec2 instance then just go ahead and delete the snapshot. (not the volume)
+
+--Here our script is in such a way that if the snapshot belongs to a volume that is not attached to any ec2 instance then delete the snapshot.
+--so here it delete the snapshot . (not the volume)
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/17174ddb-3fb0-4b0b-afb3-ab5dc39322e9" />
+
+
+
 
 
