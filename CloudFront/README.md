@@ -1,5 +1,7 @@
+YouTube Tutorial: TechWithNikhitha Click to watch on YouTube :
 
-
+AWS CloudFront | Integrate CloudFront with S3 |CDN Setup
+https://youtu.be/byXbsytJq9w?si=qlDfyv52XrdaQBBJ
 
 AWS CloudFront with S3:
 This project demonstrates how to configure AWS CloudFront and integrate it with an S3 bucket to deliver content using Amazon’s global Content Delivery Network (CDN).
@@ -12,12 +14,20 @@ It reduces latency, improves security, and helps with cost optimization.
 ✅ Low Latency – Delivers content from the nearest edge location
 ✅ Cost Optimization – Reduces data transfer costs via caching
 
+
+
 Steps Covered in This Project
 -----------------------------
 1.Create an S3 bucket and upload content
 2.Configure CloudFront Distribution
 3.Integrate CloudFront with the S3 bucket
 4.Test content delivery from edge locations
+
+
+
+
+
+
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-29 184620" src="https://github.com/user-attachments/assets/ed9e2559-c4ab-44fd-8cca-70d6bc30355c" />
 
