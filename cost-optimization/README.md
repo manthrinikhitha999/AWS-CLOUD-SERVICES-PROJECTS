@@ -1,5 +1,20 @@
+YouTube Tutorial: TechWithNikhitha
+
+Click to watch on YouTube :   
 
 
+
+### AWS Cost Optimization with Lambda | Delete Stale Snapshots Automatically ###
+https://youtu.be/Efeu3M1o4-E?si=Ks0MxNXqtUfhhlov
+
+
+
+### AWS Cost Optimization | Automate EBS GP2 to GP3 Conversion using Lambda + CloudWatch ###
+
+https://youtu.be/ahlqp8ZWqok?si=nsidHLKjp6L7IoPl
+
+
+### This file contains both projects with their screenshots.###
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/548e5085-62e7-425d-8cee-9c2be00267e2" />
 
