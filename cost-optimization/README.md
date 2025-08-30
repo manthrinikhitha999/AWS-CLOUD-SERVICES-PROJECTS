@@ -78,7 +78,34 @@ This project demonstrates how to implement **governance + automation** for **cos
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-30 223226 - Copy" src="https://github.com/user-attachments/assets/9f1223ee-0c1f-429f-ba0c-b072cdf2fbdd" />
 
-<img width="1920" height="1020" alt="Screenshot 2025-08-30 223226" src="https://github.com/user-attachments/assets/32ca4527-f261-4a72-b08a-d4d6af5f0ba1" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223244" src="https://github.com/user-attachments/assets/ddaaa8b3-7b21-4c34-aa4e-c6eecbe0749b" />
+
+### Step 2: Configure CloudWatch Rule
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223357" src="https://github.com/user-attachments/assets/86ec6879-79d1-4e4d-80fb-fb652f5b689f" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223413" src="https://github.com/user-attachments/assets/364c0442-a34e-4f7d-a2a6-848e6f89378d" />
+
+### Assign the IAM Permissions to the Role
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223459" src="https://github.com/user-attachments/assets/9a348821-6269-494c-acbd-eb3c6577d70c" />
+
+### See the logs in the log Group
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223533" src="https://github.com/user-attachments/assets/310bab79-3eb5-45d5-abe9-43e0ae5edfde" />
+
+
+### Step 3: Create EBS Volume (Trigger Lambda)
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223614" src="https://github.com/user-attachments/assets/da247e81-c16a-4295-ab56-29959e49d3f0" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223810" src="https://github.com/user-attachments/assets/e8d6f222-74e6-49ec-8376-8dc6fe4393a6" />
+
+### Step 4: Automatic Conversion GP2 → GP3
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223827" src="https://github.com/user-attachments/assets/301fcb3e-135c-48aa-b862-6ecfb8c66924" />
+
+
 
 
 
