@@ -1,17 +1,17 @@
 YouTube Tutorial: TechWithNikhitha
 Click to watch on YouTube :
 
-AWS CI-Part-1 | Continuous Integration with AWS CodePipeline, CodeBuild & GitHub:  
+### AWS CI-Part-1 | Continuous Integration with AWS CodePipeline, CodeBuild & GitHub: ###
 
 https://youtu.be/no-sywsGYBo?si=VlpwMEnsNgcG1mZK
 
-AWS CD-part-2 | Continuous Delivery |AWS CI/CD Full Project|CodePipeline + CodeBuild + CodeDeploy: 
+### AWS CD-part-2 | Continuous Delivery |AWS CI/CD Full Project|CodePipeline + CodeBuild + CodeDeploy: ###
    
 https://youtu.be/HgXFU4GLisg?si=drfUrDutiTvkoYKh
 
 <img width="1920" height="905" alt="AWS-CICD-IMAGE" src="https://github.com/user-attachments/assets/cb8b8a05-2e9d-47c0-9466-12d6b6cfaddd" />
 
-CodeBuild:
+### CodeBuild: ###
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 120151" src="https://github.com/user-attachments/assets/52e5b757-ea28-40b5-879b-660fdb5a0f46" />
 
@@ -44,7 +44,7 @@ CodeBuild:
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 120404" src="https://github.com/user-attachments/assets/36c1f26e-eb56-44dc-ab1b-93de013d8d48" />
 
 
-Code Pipeline:
+### Code Pipeline: ###
 
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 120736" src="https://github.com/user-attachments/assets/a8c6d369-26d8-4578-927b-8298720b22ee" />
@@ -68,7 +68,7 @@ Code Pipeline:
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 121224" src="https://github.com/user-attachments/assets/af1e4d3b-dfa9-4a75-8444-1467e86905a7" />
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/36746e5c-a63e-4793-a37e-97a6e164a317" />
-Login to the Instance and fire this commands.
+# Login to the Instance and fire this commands. #
  1  sudo apt update
  2  sudo apt install ruby-full
  3  sudo apt install wget
@@ -81,12 +81,12 @@ Login to the Instance and fire this commands.
  10 docker ps  
 
 
-Document To Install the above agent:
+### Document To Install the above agent: ###
 https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-ubuntu.html
 
 
 
-Code Deploy:
+### Code Deploy: ###
  
  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2c173641-a9ee-4f60-ba56-dbb1f6f27a68" />
 
@@ -96,7 +96,7 @@ Code Deploy:
  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/07127799-a256-4d9a-a263-e8adb4ccd359" />
 
 
-IAM permissions:
+### IAM permissions: ###
 
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/65a4600c-7259-4794-82b8-2504679d3b95" />
@@ -108,7 +108,7 @@ IAM permissions:
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 140701" src="https://github.com/user-attachments/assets/a195b6e4-2024-4a9c-9c91-5a1e368a0f1a" />
 
 
-Errors Faced During the implementation:
+### Errors Faced During the implementation: ###
 
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-25 140916" src="https://github.com/user-attachments/assets/c30fe499-bf73-4ba0-a04a-1d7e5d51d847" />
