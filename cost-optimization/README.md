@@ -67,6 +67,53 @@ CASE3: Again Create Only the Volume and the snapshot out of Volume you Created n
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/17174ddb-3fb0-4b0b-afb3-ab5dc39322e9" />
 
 
+===================================================================================================================================================================
+# AWS Cost Optimization – Automating EBS GP2 → GP3 Conversion with Lambda + CloudWatch
+
+This project demonstrates how to implement **governance + automation** for **cost optimization in AWS** using **CloudWatch Events** and **AWS Lambda (Python)**
+
+## 🚀 Project Steps with Screenshots:
+
+### Step 1: Create Lambda Function
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223226 - Copy" src="https://github.com/user-attachments/assets/9f1223ee-0c1f-429f-ba0c-b072cdf2fbdd" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 223226" src="https://github.com/user-attachments/assets/32ca4527-f261-4a72-b08a-d4d6af5f0ba1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
