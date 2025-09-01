@@ -39,7 +39,7 @@ Enter Access Key ID, Secret Access Key, default region (us-east-1), and output f
 # Verified Image & Scan:
  While creating the repo, I enabled image scanning. After pushing the image, ECR automatically scanned it and provided the scan status. ✅
  
-====================================================================================================================================================================
+========================================================================================================================
 
  <img width="1920" height="1020" alt="Screenshot 2025-09-01 222219" src="https://github.com/user-attachments/assets/e110e348-5fc2-4b9d-8f7b-b0a218e0580d" />
 
