@@ -1,5 +1,5 @@
 
-# Click to watch on YouTube :
+Click to watch on YouTube :
 
 AWS ECS | AWS ECS + ECR +WSL | Deploy Your First Application on AWS ECS with ECR using WSL:
 
