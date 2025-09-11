@@ -40,10 +40,13 @@ docker push .dkr.ecr..amazonaws.com/:latest
 
 <img width="1920" height="1020" alt="Screenshot 2025-09-11 152248" src="https://github.com/user-attachments/assets/9734b272-7063-419e-bced-8f5bc5336ea6" />
 
+# Deploying & Running Your First Container in ECS
+
 <img width="1920" height="1020" alt="Screenshot 2025-09-11 152355" src="https://github.com/user-attachments/assets/b8f88765-68dc-4650-99a9-6dd7dff7650f" />
 
 <img width="1920" height="1020" alt="Screenshot 2025-09-11 152414" src="https://github.com/user-attachments/assets/0bc162e4-9437-4614-a384-2ff20699798f" />
 
+<img width="1920" height="1020" alt="Screenshot 2025-09-11 152440" src="https://github.com/user-attachments/assets/20140113-7117-40f4-9bf9-5e69cd3c78ee" />
 
 
 
