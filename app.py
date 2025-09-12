@@ -1,7 +1,7 @@
-# app.py
+#!/usr/bin/env python3
 import aws_cdk as cdk
-from my_project.my_stack import MyStack  # <- your stack file
+from cdk_s3.cdk_s3_stack import CdkS3BucketStack   # ✅ correct import
 
 app = cdk.App()
-MyStack(app, "CdkS3Stack")   # 👈 stack name must match here
+CdkS3BucketStack(app, "CdkS3Stack")   # ✅ use your actual class
 app.synth()
